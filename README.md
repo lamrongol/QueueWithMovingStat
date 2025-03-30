@@ -6,6 +6,8 @@ You only just add values, stats(min, max, average, median) are calculated with m
 移動統計量を自動的に計算する固定長のキューです。
 普通に値を追加していけば自動的に各種移動統計量が計算されます。
 
+解説記事
+https://zenn.dev/lamrongol/articles/4effe447dd3716
 ----------------------------------------------------------------
 Sample code:
 ```Java
